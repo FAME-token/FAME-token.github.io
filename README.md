@@ -1,2 +1,2 @@
 # FAME_token
-Friendly token based on Everscale
+Friendly token (FAME) TIP-3 token based on Everscale
