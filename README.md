@@ -19,6 +19,7 @@ Friendly token (FAME) TIP-3 token based on Everscale
 5. По окончании пункта 4 - создание пула ликвидности с токеном FAME и начало вестинга награды для амбассадоров FAME
 6. Запуск Friendly DAO. Передача DAO 50% эмиссии токена
 
+*****************************************************
 Contact us
 
 tokenfame@gmail.com
